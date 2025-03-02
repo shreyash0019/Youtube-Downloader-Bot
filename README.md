@@ -20,14 +20,14 @@ pip install moviepy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shreyash0019/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/shreyash0019/Youtube-Downloader-Bot.git
+cd Youtube-Downloader-Bot
 ```
 
 2. Run the script:
 
 ```bash
-python youtube_downloader.py
+python Youtube_Downloader-Bot.py
 ```
 
 3. Follow the prompts to enter the YouTube playlist URL, the folder path where you want to save the videos, and the media type (audio or video). If you choose video, you will also need to specify the video quality (e.g., 720p, 1080p).
