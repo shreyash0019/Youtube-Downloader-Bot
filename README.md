@@ -43,4 +43,4 @@ Enter the quality of the video (e.g., 720p, 1080p): 720p
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
